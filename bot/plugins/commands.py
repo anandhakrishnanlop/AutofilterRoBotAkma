@@ -90,7 +90,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('🧑‍🔬 Master 🧑‍🔬', url='https://t.me/AkFrolicx'),
-        InlineKeyboardButton('📽️ Source 📽️', url ='https://t.me/AkFrolicx_Here)
+        InlineKeyboardButton('📽️ Source 📽️', url ='https://t.me/AkFrolicx_Here')
     ],[
         InlineKeyboardButton('My Updates🛠', url='https://t.me/AkFrolicx_Here'),
         InlineKeyboardButton('⚜️Main Channel⚜️', url='https://t.me/Ssm_Cinemas')
