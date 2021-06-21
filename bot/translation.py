@@ -6,7 +6,7 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <b>I Aᴍ Jᴜꜱᴛ Aᴜꜰᴏꜰɪʟᴛᴇʀ Bᴏᴛ Exᴄʟᴜꜱɪᴠᴇʟy Mᴀᴅᴇ Fᴏʀ <a href="https://t.me/Ssm_Cinemas">SSM GROUP</a>
-Aɴᴅ Mᴀɪɴᴛᴀɪɴᴇᴅ ʙy <a href="https://t.me/AkFrolicx">This Person</a> </b>
+Aɴᴅ Mᴀɪɴᴛᴀɪɴᴇᴅ ʙy <a href="https://t.me/AkFrolicx">This Person</a></b>
 
 Nᴏ Oɴᴇ Cᴀɴ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ
 More Info /help"""    
